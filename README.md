@@ -3,4 +3,4 @@
 
 my code : my_run.py
 
-[!Fig1]('./Videos/saved_0026.png')
+![Fig1](./Videos/saved_0026.png)
